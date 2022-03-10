@@ -8,3 +8,7 @@ div {
   display: block;
   border: 1px solid red;
 }
+
+.klase {
+  border: 1px solid;
+}
