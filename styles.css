@@ -12,3 +12,8 @@ div {
 .klase {
   border: 1px solid;
 }
+
+.kitaKlase {
+  border-radius: 10px;
+  box-shadow: 10px 10px;
+}
